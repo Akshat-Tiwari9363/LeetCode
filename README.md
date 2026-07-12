@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0148-sort-list) |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
