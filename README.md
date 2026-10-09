@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0008-string-to-integer-atoi) |
 ## Array
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
