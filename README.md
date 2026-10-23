@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
