@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
