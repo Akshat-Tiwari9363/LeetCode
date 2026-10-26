@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshat-Tiwari9363/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
